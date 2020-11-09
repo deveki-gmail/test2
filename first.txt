@@ -1,2 +1,2 @@
 This is my first file on git in this repo.
-This is second updated from another person.
+This is second edited from another person.
